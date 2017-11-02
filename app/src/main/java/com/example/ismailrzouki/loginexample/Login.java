@@ -32,7 +32,6 @@ public class Login extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
        init();
-        //code
 
         annuler.setOnClickListener(new View.OnClickListener() {
             @Override
